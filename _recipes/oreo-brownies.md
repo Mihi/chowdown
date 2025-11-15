@@ -1,9 +1,8 @@
 ---
-title: "Oreo-Erdnuss-Brownies"
 layout: recipe
-date: 2025-11-15
-image: /images/oreo-brownies.jpg
-categories: [dessert, brownies, chocolate]
+title: "Oreo-Erdnuss-Brownies"
+image: oreo-brownies.jpg
+
 ingredients:
   - 100 g Mehl
   - 40 g Kakaopulver
