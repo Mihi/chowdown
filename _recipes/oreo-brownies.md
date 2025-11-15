@@ -1,5 +1,6 @@
 ---
 title: "Oreo-Erdnuss-Brownies"
+layout: recipe
 date: 2025-11-15
 image: /images/oreo-brownies.jpg
 categories: [dessert, brownies, chocolate]
