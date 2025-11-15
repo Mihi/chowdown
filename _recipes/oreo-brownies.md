@@ -20,7 +20,8 @@ ingredients:
   - 45 ml Schlagsahne
   - 40 g Puderzucker
   - 10 Oreo-Cookies (zur Dekoration)
-instructions:
+    
+directions:
   - Backofen auf 180 °C Ober-/Unterhitze vorheizen.
   - Butter, Zucker, braunen Zucker und Vanilleextrakt schaumig schlagen. Eier einzeln unterrühren.
   - Mehl, Kakao und Salz mischen, darüber sieben und unterheben.
